@@ -25,4 +25,4 @@ class ProdutoService {
         return Produto::delete($id);
     }
 }
-?>s
+?>
